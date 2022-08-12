@@ -1,0 +1,10 @@
+{
+  "domain": "dhcp",
+  "name": "No DHCP Autodiscovery",
+  "documentation": "",
+  "requirements": [],
+  "dependencies": [],
+  "codeowners": [],
+  "version": "1.0.0",
+  "iot_class": "cloud_push"
+}
